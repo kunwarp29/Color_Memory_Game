@@ -1,2 +1,3 @@
 # Color_Memory_Game
 play this game at: https://kunwarp29.github.io/Color_Memory_Game/
+Description: This is a color memory game in which we will press a key, then one color will pop up(level 1) then we have to click that color, now second color will pop up so now we have to click the previous color along with the new pop up color (Level 2) , so everytime we have to remember the correct order of the color and so on....
